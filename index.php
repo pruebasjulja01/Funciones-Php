@@ -15,7 +15,7 @@ Evidencia 2: Taller: “Uso de funciones” -->
   <form  id="form1" method="post" action="index.php">
     <input type="text" type="text" name="numero1" />
 
-    <select class="boton" name="opciones">
+    <select name="opciones">
         <option value="0">Sumar</option>
         <option value="1">Restar</option>
         <option value="2">Multiplicar</option>
